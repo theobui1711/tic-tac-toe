@@ -19,5 +19,6 @@ To run this project, simply clone the repository and run the main script.
 ```bash
 git clone https://github.com/theobui1711/tic-tac-toe.git
 cd tic-tac-toe
-python frontends/play.py
+python -m pip install library/
+python -m frontends.console
 ```
